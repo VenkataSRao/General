@@ -1,0 +1,10 @@
+To Change root password in unix
+
+login to unix box 
+$ passwd
+
+then enter new password
+re-enter password
+
+======================================
+
